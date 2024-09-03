@@ -15,7 +15,7 @@
 # Getting Started
 
 
-[![Watch the video](https://raw.githubusercontent.com/emreoztemiz-ai-ml/Running-contexts-without-needing-a-Mobile-App/main/Thankful.jpeg)](https://youtu.be/8kCtfiXPJp0)
+[![Watch the video](https://youtu.be/8kCtfiXPJp0)
 
 ![image](https://raw.githubusercontent.com/emreoztemiz-ai-ml/Running-contexts-without-needing-a-Mobile-App/main/Thankful.jpeg)
 
