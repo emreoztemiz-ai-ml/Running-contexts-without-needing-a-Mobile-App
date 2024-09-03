@@ -1,4 +1,4 @@
-#visitors-count-eyes
+![Visitor Count](https://profile-counter.glitch.me/{emreoztemiz-ai-ml}/count.svg)
 
 ![](https://avatars.githubusercontent.com/u/178294790?v=4)
  
