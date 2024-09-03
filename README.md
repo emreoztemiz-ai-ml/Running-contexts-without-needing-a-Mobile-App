@@ -21,10 +21,14 @@
 
 # App Video Preview
  <details><summary></summary>
-https://github.com/user-attachments/assets/6d847e50-3a91-409a-8f03-6f82bbc4b0d9
+
+
+
+https://github.com/user-attachments/assets/a0fff4ea-8e38-43f8-87be-fff6bd070353
+
 
 # Thankful
- <details><summary>
-![image](https://raw.githubusercontent.com/emreoztemiz-ai-ml/Running-contexts-without-needing-a-Mobile-App/main/Thankful.jpeg)</summary>
+
+![image](https://raw.githubusercontent.com/emreoztemiz-ai-ml/Running-contexts-without-needing-a-Mobile-App/main/Thankful.jpeg)
 
 
