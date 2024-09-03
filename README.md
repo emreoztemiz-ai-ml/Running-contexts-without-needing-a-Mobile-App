@@ -20,8 +20,8 @@
 
 
 # App Video Preview
- <details><summary>https://github.com/user-attachments/assets/6d847e50-3a91-409a-8f03-6f82bbc4b0d9</summary>
-
+ <details><summary></summary>
+https://github.com/user-attachments/assets/6d847e50-3a91-409a-8f03-6f82bbc4b0d9
 
 # Thankful
  <details><summary>
