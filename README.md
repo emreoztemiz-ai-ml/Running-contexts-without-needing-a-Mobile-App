@@ -14,8 +14,8 @@
 
 # Getting Started
 
-[https://github.com/emreoztemiz-ai-ml/Running-contexts-without-needing-a-Mobile-App/blob/main/G%C3%B6r%C3%BCnt%C3%BC%20S%C4%B1n%C4%B1fland%C4%B1rmas%C4%B1-%20Video.mp4]
+https://github.com/emreoztemiz-ai-ml/Running-contexts-without-needing-a-Mobile-App/blob/main/G%C3%B6r%C3%BCnt%C3%BC%20S%C4%B1n%C4%B1fland%C4%B1rmas%C4%B1-%20Video.mp4
 
-![image]([https://raw.githubusercontent.com/emreoztemiz-ai-ml/Running-contexts-without-needing-a-Mobile-App/main/Thankful.jpeg])
+![image](https://raw.githubusercontent.com/emreoztemiz-ai-ml/Running-contexts-without-needing-a-Mobile-App/main/Thankful.jpeg)
 
 
