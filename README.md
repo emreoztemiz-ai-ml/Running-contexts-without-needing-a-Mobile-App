@@ -1,10 +1,8 @@
 
 <div align="center">Visitor's Count 👀 </div>
+
 ![Visitor Count](https://profile-counter.glitch.me/{emreoztemiz-ai-ml}/count.svg)
 
-<div align="center">
-![](https://avatars.githubusercontent.com/u/178294790?v=4)
- </div>
  <div align="center">
  <details><summary>Neden direk tarayıcı üzerinde çalışılmalı?</summary>
 <li>- 1- Daha az yer kaplar.</li>
