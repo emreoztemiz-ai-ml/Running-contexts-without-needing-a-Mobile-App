@@ -37,8 +37,7 @@ https://github.com/user-attachments/assets/a0fff4ea-8e38-43f8-87be-fff6bd070353
 
 </div>
 
-<div align="center">
-# Thankful
+## <div id="thankful">:memo: Thankful</div>>
 
 ![image](https://raw.githubusercontent.com/emreoztemiz-ai-ml/Running-contexts-without-needing-a-Mobile-App/main/Thankful.jpeg)
 
