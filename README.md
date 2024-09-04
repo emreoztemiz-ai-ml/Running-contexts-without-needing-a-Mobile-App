@@ -9,16 +9,16 @@ Visitor's Count 👀
 ![](https://avatars.githubusercontent.com/u/178294790?v=4)
  
  <details><summary>Neden direk tarayıcı üzerinde çalışılmalı?</summary>
-- 1- Daha az yer kaplar.
-- 2- Daha az izin istenildiği için daha güvenlidir.
-- 3- Herhangi üçüncü taraf bir uygulama yüklemek gerekmez, daha kullanışlıdır.
-- 4- Mikro işlemlerde uygulama açılış ekranı açılana kadar işleminiz bitmiş olur. Daha seridir.
+<li>- 1- Daha az yer kaplar.</li>
+<li>- 2- Daha az izin istenildiği için daha güvenlidir.</li>
+<li>- 3- Herhangi üçüncü taraf bir uygulama yüklemek gerekmez, daha kullanışlıdır.</li>
+<li>- 4- Mikro işlemlerde uygulama açılış ekranı açılana kadar işleminiz bitmiş olur. Daha seridir.</li>
 
   <details><summary>Why work directly on the browser?</summary>
-- 1- It takes up less space.
-- 2- It is more secure as fewer permissions are required.
-- 3- There is no need to install any third-party application, it is more convenient.
-- 4- In micro transactions, your transaction is finished until the application splash screen opens. It is faster.
+<li>- 1- It takes up less space.</li>
+<li>- 2- It is more secure as fewer permissions are required.</li>
+<li>- 3- There is no need to install any third-party application, it is more convenient.</li>
+<li>- 4- In micro transactions, your transaction is finished until the application splash screen opens. It is faster.</li>
 
 # Targets
 - <details><summary>Providing both visual and audible notification of the result </summary>
