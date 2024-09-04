@@ -18,7 +18,7 @@
 <li>- 4- In micro transactions, your transaction is finished until the application splash screen opens. It is faster.</li>  <details>
 </div>
 
-## <div id="targets">:memo: Targets</div>
+## <div align="center" id="targets">:memo: Targets</div>
    <div align="center">
 - <details><summary>Providing both visual and audible notification of the result </summary>
 - - <details><summary>By creating a data set that can provide more detail in certain areas and integrating it into devices that can use cameras and deep learning reciprocity, to produce the appropriate material with an easy-to-use design for visually impaired friends and babies of learning age .</summary> <li>- Loading....</li>
@@ -28,7 +28,7 @@
 
 
 
-## <div id="video-preview">:memo: App Video Preview</div>
+## <div align="center" id="video-preview">:memo: App Video Preview</div>
  <details><summary></summary>
 
 
@@ -37,7 +37,7 @@ https://github.com/user-attachments/assets/a0fff4ea-8e38-43f8-87be-fff6bd070353
 
 </div>
 
-## <div id="thankful">:memo: Thankful</div>>
+## <div align="center" id="thankful">:memo: Thankful</div>
 
 ![image](https://raw.githubusercontent.com/emreoztemiz-ai-ml/Running-contexts-without-needing-a-Mobile-App/main/Thankful.jpeg)
 
