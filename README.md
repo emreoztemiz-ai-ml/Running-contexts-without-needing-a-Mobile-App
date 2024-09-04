@@ -1,9 +1,9 @@
 
-<div align="center">Visitor's Count 👀 </div>
-<li align="center>
+<div align="center">Visitor's Count 👀 
  
-![Visitor Count](https://profile-counter.glitch.me/{emreoztemiz-ai-ml}/count.svg) </li>
+![Visitor Count](https://profile-counter.glitch.me/{emreoztemiz-ai-ml}/count.svg) 
 
+</div>
  <div align="center">
  <details><summary>Neden direk tarayıcı üzerinde çalışılmalı?</summary>
 <li>- 1- Daha az yer kaplar.</li>
