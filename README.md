@@ -16,17 +16,18 @@
 <li>- 3- There is no need to install any third-party application, it is more convenient.</li>
 <li>- 4- In micro transactions, your transaction is finished until the application splash screen opens. It is faster.</li>
 </div>
+
+## <div id="targets">:memo: Targets</div>
    <div align="center">
-# Targets
 - <details><summary>Providing both visual and audible notification of the result </summary>
-- - <details><summary>By creating a data set that can provide more detail in certain areas and integrating it into devices that can use cameras and deep learning reciprocity, to produce the appropriate material with an easy-to-use design for visually impaired friends and babies of learning age .</summary>
-- <details><summary>Using this structure in the local repository in conjunction with other projects on Flutter, with a dataset that learns and draws conclusions based on people's usage</summary>
+- - <details><summary>By creating a data set that can provide more detail in certain areas and integrating it into devices that can use cameras and deep learning reciprocity, to produce the appropriate material with an easy-to-use design for visually impaired friends and babies of learning age .</summary> <li>- Loading....</li>
+- <details><summary>Using this structure in the local repository in conjunction with other projects on Flutter, with a dataset that learns and draws conclusions based on people's usage</summary>  <li>- Waiting....</li>
 
 </div>
 
 
-<div align="center">
-# App Video Preview
+
+## <div id="video-preview">:memo: App Video Preview</div>
  <details><summary></summary>
 
 
