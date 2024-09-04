@@ -9,13 +9,13 @@
 <li>- 1- Daha az yer kaplar.</li>
 <li>- 2- Daha az izin istenildiği için daha güvenlidir.</li>
 <li>- 3- Herhangi üçüncü taraf bir uygulama yüklemek gerekmez, daha kullanışlıdır.</li>
-<li>- 4- Mikro işlemlerde uygulama açılış ekranı açılana kadar işleminiz bitmiş olur. Daha seridir.</li>
+<li>- 4- Mikro işlemlerde uygulama açılış ekranı açılana kadar işleminiz bitmiş olur. Daha seridir.</li>  </details>
 
   <details><summary>Why work directly on the browser?</summary>
 <li>- 1- It takes up less space.</li>
 <li>- 2- It is more secure as fewer permissions are required.</li>
 <li>- 3- There is no need to install any third-party application, it is more convenient.</li>
-<li>- 4- In micro transactions, your transaction is finished until the application splash screen opens. It is faster.</li>
+<li>- 4- In micro transactions, your transaction is finished until the application splash screen opens. It is faster.</li>  <details>
 </div>
 
 ## <div id="targets">:memo: Targets</div>
