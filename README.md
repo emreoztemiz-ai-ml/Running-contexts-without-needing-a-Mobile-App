@@ -30,7 +30,7 @@
 
 ## <div align="center" id="video-preview">:memo: App Video Preview</div>
  <details><summary></summary>
-
+ <div align="center">
 
 
 https://github.com/user-attachments/assets/a0fff4ea-8e38-43f8-87be-fff6bd070353
@@ -38,6 +38,7 @@ https://github.com/user-attachments/assets/a0fff4ea-8e38-43f8-87be-fff6bd070353
 </div>
 
 ## <div align="center" id="thankful">:memo: Thankful</div>
+ <div align="center">
 
 ![image](https://raw.githubusercontent.com/emreoztemiz-ai-ml/Running-contexts-without-needing-a-Mobile-App/main/Thankful.jpeg)
 
