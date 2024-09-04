@@ -1,10 +1,8 @@
 
-
-![Emrex](https://github.com/user-attachments/assets/df1433bf-67a1-47b7-be4c-8c63e2d03572)
-
-
-Visitor's Count 👀 
-![Visitor Count](https://profile-counter.glitch.me/{emreoztemiz-ai-ml}/count.svg)
+<div align="center">Visitor's Count 👀 </div>
+<div align="center">
+![Visitor Count](https://profile-counter.glitch.me/{emreoztemiz-ai-ml}/count.svg) </div>
+<div align="center">
 
 ![](https://avatars.githubusercontent.com/u/178294790?v=4)
  
@@ -19,14 +17,17 @@ Visitor's Count 👀
 <li>- 2- It is more secure as fewer permissions are required.</li>
 <li>- 3- There is no need to install any third-party application, it is more convenient.</li>
 <li>- 4- In micro transactions, your transaction is finished until the application splash screen opens. It is faster.</li>
-
+</div>
+   <div align="center">
 # Targets
 - <details><summary>Providing both visual and audible notification of the result </summary>
 - - <details><summary>By creating a data set that can provide more detail in certain areas and integrating it into devices that can use cameras and deep learning reciprocity, to produce the appropriate material with an easy-to-use design for visually impaired friends and babies of learning age .</summary>
 - <details><summary>Using this structure in the local repository in conjunction with other projects on Flutter, with a dataset that learns and draws conclusions based on people's usage</summary>
 
+</div>
 
 
+<div align="center">
 # App Video Preview
  <details><summary></summary>
 
@@ -34,9 +35,13 @@ Visitor's Count 👀
 
 https://github.com/user-attachments/assets/a0fff4ea-8e38-43f8-87be-fff6bd070353
 
+</div>
 
+<div align="center">
 # Thankful
 
 ![image](https://raw.githubusercontent.com/emreoztemiz-ai-ml/Running-contexts-without-needing-a-Mobile-App/main/Thankful.jpeg)
 
+</div>
 
+![Emrex](https://github.com/user-attachments/assets/df1433bf-67a1-47b7-be4c-8c63e2d03572)
