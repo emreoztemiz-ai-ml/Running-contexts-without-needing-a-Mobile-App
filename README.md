@@ -1,7 +1,8 @@
 
 <div align="center">Visitor's Count 👀 </div>
-
-![Visitor Count](https://profile-counter.glitch.me/{emreoztemiz-ai-ml}/count.svg)
+<li align="center>
+ 
+![Visitor Count](https://profile-counter.glitch.me/{emreoztemiz-ai-ml}/count.svg) </li>
 
  <div align="center">
  <details><summary>Neden direk tarayıcı üzerinde çalışılmalı?</summary>
